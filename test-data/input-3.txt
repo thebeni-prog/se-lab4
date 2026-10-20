@@ -1,0 +1,5 @@
+# SINGLE: secondary is empty, fire primary again
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+

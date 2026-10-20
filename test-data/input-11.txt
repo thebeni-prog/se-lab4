@@ -1,0 +1,5 @@
+# SINGLE: primary fired last, then both stores are empty
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+

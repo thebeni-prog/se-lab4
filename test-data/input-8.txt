@@ -1,0 +1,4 @@
+# ALL: primary empty, secondary fires
+GT4500,0,0,1,0
+TORPEDO,ALL
+
